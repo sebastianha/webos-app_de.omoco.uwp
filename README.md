@@ -30,6 +30,10 @@ webOS App – Ultimate Wallpaper (de.omoco.uwp)
 ![Screenshot](/screenshots/screenshot1.png?raw=true "Screenshot")
 ![Screenshot](/screenshots/screenshot2.png?raw=true "Screenshot")
 
+## Video
+
+http://www.youtube.com/watch?v=MJfhAqGybOk
+
 ## Description
 
 #### English
