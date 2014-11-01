@@ -1,0 +1,17 @@
+/* Put Application specific CSS here. */
+
+#waiting_spinner
+{
+	z-index: 1002;
+    position: fixed;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    right: 0;
+	width:320px;
+	height:480px;
+	background-color:#000000;
+	opacity: 0.85;
+	display: none;
+	color:#ffffff;
+}

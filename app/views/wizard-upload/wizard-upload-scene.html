@@ -1,0 +1,45 @@
+<!--
+Ultimate Wallpaper - The ultimate wallpaper app
+Version 1.0.0 (29. Mar 2010)
+
+Copyright (C) 2010 Sebastian Hammerl (E-Mail: uwp@omoco.de)
+
+This program is free software; you can redistribute it and/or
+modify it under the terms of the GNU General Public License as
+published by the Free Software Foundation; either version 3 of
+the License, or (at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU
+General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program; if not, see <http://www.gnu.org/licenses/>.
+-->
+
+<div id="waiting_spinner"><center><h2>Checking File ...</h2>Please Wait.</center><br><div x-mojo-element="Spinner" id="waiting_spinner2" style="margin:auto"></div><br><center>If this is stuck please try a smaller<br>wallpaper and make sure you<br>have a good internet connection.</center></div>
+<div id="main">
+    <div class="palm-page-header multi-line">
+        <div id="main-header" class="palm-page-header-wrapper" style="height: 50px;line-height: 50px;;font-weight: bold;text-align:center;">
+             Ultimate Wallpaper
+        </div>
+    </div>
+    <div id="main-body" class="itemFull">
+		<button id='select' class='palm-button'>Select Wallpaper</button>
+		<table border=0 cellpadding=0 cellspacing=0>
+			<tr>
+				<td style="padding-left:20px; padding-right:20px" width=195>
+					Selected Wallpaper:
+				</td>
+				<td style="padding-left:20px; padding-right:20px" width=125>
+					<img id=bg1 src="" width=125 height=180>
+				</td>
+			</tr>
+		</table>
+		<button id='next' class='palm-button affirmative'>Next</button>
+		<div x-mojo-element="Spinner" id="large-activity-spinner" style="margin:auto"></div>
+		<center><div id="info"></div></center>
+		<div id="debug"></div>
+	</div>
+</div>

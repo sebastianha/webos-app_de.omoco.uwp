@@ -1,0 +1,41 @@
+[
+    {"source": "app/assistants/stage-assistant.js"},
+    {"source": "app/assistants/app-assistant.js"},
+    {"source": "app/assistants/helper.js"},
+    {
+        "scenes": "main",
+        "source": "app/assistants/main-assistant.js"
+    },
+    {
+        "scenes": "wizard-upload",
+        "source": "app/assistants/wizard-upload-assistant.js"
+    },
+    {
+        "scenes": "wizard-type",
+        "source": "app/assistants/wizard-type-assistant.js"
+    },
+    {
+        "scenes": "wizard-design",
+        "source": "app/assistants/wizard-design-assistant.js"
+    },
+    {
+        "scenes": "wizard-finish",
+        "source": "app/assistants/wizard-finish-assistant.js"
+    },
+    {
+        "scenes": "about",
+        "source": "app/assistants/about-assistant.js"
+    },
+    {
+        "scenes": "credits",
+        "source": "app/assistants/credits-assistant.js"
+    },
+    {
+        "scenes": "preferences",
+        "source": "app/assistants/preferences-assistant.js"
+    },
+    {
+        "scenes": "tutorial",
+        "source": "app/assistants/tutorial-assistant.js"
+    }
+]

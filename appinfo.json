@@ -1,0 +1,10 @@
+{
+	"id": "de.omoco.uwp",
+	"version": "1.0.2",
+	"vendor": "uwp.omoco.de",
+	"type": "web",
+	"main": "index.html",
+	"title": "Ultimate Wallpaper",
+	"icon": "icon.png",
+	"noWindow": true
+}
